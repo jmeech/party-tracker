@@ -1,3 +1,8 @@
+/* This class was largely adapted from Lars Vogel's tutorial
+ * at http://www.vogella.com/tutorials/JavaXML/article.html
+ * https://github.com/vogella
+ */
+
 package tracker.include;
 
 import java.io.File;

@@ -9,6 +9,11 @@ public class HealthBlock extends GridPane
 	private PCStat<Integer> sp;
 	private PCStat<Integer> hp;
 	
+	/**
+	 * Constructs a Health block
+	 * 
+	 * @param healthIn
+	 */
 	public HealthBlock(int[] healthIn)
 	{
 		ac = new PCStat<Integer>("AC", healthIn[0], size.SINGLE);

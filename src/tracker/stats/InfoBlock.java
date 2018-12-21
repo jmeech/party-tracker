@@ -12,6 +12,13 @@ public class InfoBlock extends GridPane
 	private PCStat<String> align;
 	private PCStat<Integer> exp;
 	
+	/**
+	 * Constructs an Info block
+	 * 
+	 * @param nameIn
+	 * @param infoIn
+	 * @param expIn
+	 */
 	public InfoBlock(String nameIn, String[] infoIn, int expIn)
 	{
 		name = new PCStat<String>("NAME", nameIn, size.WIDE);
