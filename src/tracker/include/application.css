@@ -1,0 +1,146 @@
+/* Style rules for the full Character block */
+.characterBlock
+{
+	-fx-border-color: black, white;
+	-fx-border-insets: 0, 2;
+	-fx-pref-height: 0.0%; 
+	-fx-max-width: 100%;
+}
+
+.charDisplay
+{
+	-fx-alignment: baseline-left;
+	-fx-min-height: 100%;
+}
+
+/* Style Rules for the Character Info panels */
+.info
+{
+	-fx-alignment: center;
+	-fx-background-color: darkgrey, white;
+	-fx-background-insets: 0, 1;
+	-fx-min-height: 40;
+	-fx-padding: 5;
+}
+
+.infoDisplay
+{
+	-fx-background-color: darkgrey, white;
+	-fx-background-insets: 0, 0 0 1 0;
+	-fx-font: 18 monospace;
+}
+
+.infoDisplayWrap
+{
+	-fx-alignment: center-left;
+	-fx-min-width: 100%;
+}
+
+.infoDisplayWrapCenter
+{
+	-fx-alignment: center;
+	-fx-min-width: 100%;
+}
+
+.infoLabel
+{
+	-fx-font-size: 8;
+}
+
+.medium
+{
+	-fx-min-width: 100;
+}
+
+.wide
+{
+	-fx-min-width: 200;
+}
+
+/* Style rules for the Initiative tracker */
+.init
+{
+	-fx-border-color: black, white;
+	-fx-border-insets: 0, 2;
+	-fx-max-height: 100%;
+}
+
+.initButtons
+{
+	-fx-min-width: 180;
+}
+
+.initDisplay
+{
+	-fx-min-width: 180;
+	-fx-vbar-policy: never;
+}
+
+.initName
+{
+	-fx-alignment: center;
+	-fx-font: 12 monospace;
+	-fx-min-width: 150;
+	-fx-padding: 5;
+}
+
+.initNameIn
+{
+	-fx-font-size: 10;
+	-fx-min-width: 140;
+}
+
+.initNumber
+{
+	-fx-alignment: center-left;
+	-fx-font-size: 8;
+	-fx-padding: 6 5 4 5;
+}
+
+.initPanel
+{
+	-fx-background-color: darkgrey, white;
+	-fx-background-insets: 0, 1;
+	-fx-min-width: 150;
+}
+
+.pad
+{
+	-fx-padding: 5 0 5 5;
+}
+
+/* Style rules for the Character Stat blocks */
+.stat
+{
+	-fx-alignment: center;
+	-fx-background-color: darkgrey, white;
+	-fx-background-insets: 0, 1;
+	-fx-min-height: 40;
+	-fx-padding: 5;
+}
+
+.statDisplay
+{
+	-fx-font: 18 monospace;
+	-fx-min-height: 40;
+	-fx-min-width: 40;
+	-fx-text-alignment: center;
+}
+
+.statLabel
+{
+	-fx-font-size: 8;
+	-fx-min-height: 20;
+	-fx-min-width: 40;
+	-fx-text-alignment: center;
+}
+
+.single
+{
+	-fx-min-width: 40;
+}
+
+.double
+{
+	-fx-min-width: 80;
+}

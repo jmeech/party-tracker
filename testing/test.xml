@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<characters>
+	<character index="0">
+		<name>Doint Firefist</name>
+		<info>
+			<background>Far Traveler</background>
+			<class>Sorcerer</class>
+			<race>Kenku</race>
+			<alignment>True Neutral</alignment>
+			<exp>0</exp>
+		</info>
+		<health>
+			<ac>14</ac>
+			<sp>30</sp>
+			<hp>28</hp>
+			<maxhp>28</maxhp>
+		</health>
+		<stats>
+			<str>8</str>
+			<dex>14</dex>
+			<con>12</con>
+			<int>12</int>
+			<wis>14</wis>
+			<cha>18</cha>
+		</stats>
+	</character>
+	<character index="1">
+		<name>Traveit Longhammer</name>
+		<info>
+			<background>Mercenary</background>
+			<class>Paladin</class>
+			<race>Dwarf</race>
+			<alignment>Lawful Good</alignment>
+			<exp>0</exp>
+		</info>
+		<health>
+			<ac>19</ac>
+			<sp>25</sp>
+			<hp>45</hp>
+			<maxhp>45</maxhp>
+		</health>
+		<stats>
+			<str>16</str>
+			<dex>10</dex>
+			<con>14</con>
+			<int>14</int>
+			<wis>12</wis>
+			<cha>16</cha>
+		</stats>
+	</character>
+	<character index="2">
+		<name>Valins Drunkscale</name>
+		<info>
+			<background>Pirate</background>
+			<class>Fighter</class>
+			<race>Dragonborn</race>
+			<alignment>Chaotic Good</alignment>
+			<exp>0</exp>
+		</info>
+		<health>
+			<ac>19</ac>
+			<sp>30</sp>
+			<hp>48</hp>
+			<maxhp>48</maxhp>
+		</health>
+		<stats>
+			<str>18</str>
+			<dex>12</dex>
+			<con>14</con>
+			<int>14</int>
+			<wis>12</wis>
+			<cha>12</cha>
+		</stats>
+	</character>
+	<character index="3">
+		<name>Bryseis</name>
+		<info>
+			<background>Charlatan</background>
+			<class>Cleric</class>
+			<race>Tiefling</race>
+			<alignment>Chaotic Good</alignment>
+			<exp>0</exp>
+		</info>
+		<health>
+			<ac>15</ac>
+			<sp>30</sp>
+			<hp>32</hp>
+			<maxhp>32</maxhp>
+		</health>
+		<stats>
+			<str>16</str>
+			<dex>14</dex>
+			<con>12</con>
+			<int>14</int>
+			<wis>14</wis>
+			<cha>14</cha>
+		</stats>
+	</character>
+	<character index="4">
+		<name>Dalek</name>
+		<info>
+			<background>Spoiled Rich Kid</background>
+			<class>Rogue</class>
+			<race>Gnome</race>
+			<alignment>Chaotic Good</alignment>
+			<exp>0</exp>
+		</info>
+		<health>
+			<ac>14</ac>
+			<sp>30</sp>
+			<hp>35</hp>
+			<maxhp>35</maxhp>
+		</health>
+		<stats>
+			<str>14</str>
+			<dex>18</dex>
+			<con>10</con>
+			<int>14</int>
+			<wis>12</wis>
+			<cha>14</cha>
+		</stats>
+	</character>
+	<character index="5">
+		<name>Marl Boro</name>
+		<info>
+			<background>Spooky Boy</background>
+			<class>Sorcerer</class>
+			<race>Goblin</race>
+			<alignment>True Neutral</alignment>
+			<exp>0</exp>
+		</info>
+		<health>
+			<ac>16</ac>
+			<sp>30</sp>
+			<hp>27</hp>
+			<maxhp>27</maxhp>
+		</health>
+		<stats>
+			<str>8</str>
+			<dex>13</dex>
+			<con>13</con>
+			<int>14</int>
+			<wis>14</wis>
+			<cha>18</cha>
+		</stats>
+	</character>
+</characters>
